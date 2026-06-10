@@ -95,4 +95,4 @@ Developed a custom data-processing algorithm for handling massive file uploads.
 * [Link to Multi-Tenancy Query example]
 
 ---
-*Developed by Lukasz Tetiurka | Data Analyst & Junior Data Engineer*
+*Developed by Lukasz Tetiurka | Technical Business Analyst & Junior Data Engineer*
